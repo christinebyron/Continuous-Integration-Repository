@@ -7,7 +7,7 @@ This Repository will be used to demo our continuous integration process with Git
 
 The steps taken to demonstrate this integration include:
 Here are the steps we will take:
-   1. Create a simple Python application (titled Flask)
+   1. Create a simple Python application
    2. Create tests for the application
    3. Add the config.yml file to repository
    4. Push changes to GitHub
