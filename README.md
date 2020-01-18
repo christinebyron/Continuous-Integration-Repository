@@ -3,10 +3,7 @@
 This Repository will be used to demo our continuous integration process with GitHub and CircleCI.
 
 
-[!
-https://github.com/christinebyron/Continuous-Integration-Repository/
-
-
+![Cycle Image](https://github.com/christinebyron/Continuous-Integration-Repository/Github and CircleCI.png)
 
 The steps taken to demonstrate this integration include:
 Here are the steps we will take:
