@@ -1,5 +1,5 @@
 # Continuous Integration Repository
 
-This Repository will be used to demo the continuous integration with GitHub and CircleCI.
+This Repository will be used to demo our continuous integration process with GitHub and CircleCI.
 
 
