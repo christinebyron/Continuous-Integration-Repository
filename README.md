@@ -16,5 +16,5 @@ Here are the steps we will take:
    5. Configure CircleCI Project using demo Repository
    6. Update our README with a badge status
 
-Badge Status will show whether was commited code changes were successful: 
+Badge Status will show whether commited code changes were successful: 
 [![CircleCI](https://circleci.com/gh/christinebyron/Continuous-Integration-Repository.svg?style=svg)](https://circleci.com/gh/christinebyron/Continuous-Integration-Repository)
